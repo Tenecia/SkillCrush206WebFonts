@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'abril_fatfaceregular';
+    src: url('../font/abrilfatface-regular-webfont.woff2') format('woff2'),
+         url('../font/abrilfatface-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    font-family: 'abril_fatfaceregular';
+}
+
+#try {
+     font-size: 30px;
+     color: rgb(34, 34, 34);
+     text-transform: uppercase;
+     line-height: 4;
+     position: absolute;
+  left: 75.964px;
+ 
+}
+#mind{
+     font-size: 120px;  
+     color: rgb(0, 0, 0);
+     line-height: 1;
+    position: absolute;
+  left: 70.844px;
+
+}
+
+#toposs{    
+  font-size: 30px;  
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 4;
+  position: absolute;
+  left: 195.964px;
+  top: 183.5px;
+}
+#and{
+  font-size: 120px;  
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  position: absolute;
+  left: 79.937px;
+}
+#your{    
+  font-size: 36px;  
+  color: rgb(255, 255, 255);
+  line-height: 3.333;
+  position: absolute;
+  left: 120.605px;
+
+}
+#mouthcl{    
+  font-size: 120px;  
+  color: rgb(255, 255, 255);
+  line-height: .75;
+    text-transform: capitalize;
+  position: absolute;
+  left: 119.844px;
+}
+
+#onmatters{   
+  font-size: 36px;  
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  position: absolute;
+  left: 900.938px;
+  top:70px;
+  width: 200px;
+  
+}
+
+.White {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -25px;
+  top: -17px;
+  width: 1351px;
+  height: 377px;
+  z-index: 1;
+}
+.Black {
+  background-color: rgb(34, 34, 34);
+  position: absolute;
+  left: -105px;
+  top: 360px;
+  width: 1433px;
+  height: 450px;
+  z-index: 2;
+}
